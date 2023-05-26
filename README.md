@@ -22,8 +22,22 @@ The dash contains 5 sections/parts:
 
 ![Filter Options](img/filter.png "Filter Options")
 
-2. **What share of the population has been partly or fully vaccinated against COVID-19?**: This
+2. **What share of the population has been partly or fully vaccinated against COVID-19?**: This sections shows the number/percentage of how many people got at least one dose of vaccination (Partially Vaccinated), how many people got Fully Vaccinated and how many people do not have any dose of vaccination.
 
+![Vaccination Data](img/vaccination.png "Vaccination Data")
+
+3. **How does vaccination progress compare across countries?**: This section shows the horizontal bar graph of partially vaccinated vs fully vaccinated people per location selected by the viewer.
+
+![Vaccination Progress Per Country](img/bar.png "Vaccination Progress per Country")
+
+4. **Vaccination Progress Comparison - World Map**: This section shows the world map of vaccination per hundred people. The darker the color, the more people are vaccinated.
+
+![Map Legend](img/map_legend.png "Map Legend")
+![Vaccination Progress Comparison - World Map](img/map.png "Vaccination Progress Comparison - World Map")
+
+5. **How does GDP per capita affect vaccination?**: This section shows the scatter plot w.r.t Max. GDP Per Capita vs Max. People Vaccinated per Hundred. It also shows us a trend-line.
+
+![Max. GDP Per Capita vs Max. People Vaccinated per Hundred](img/scatter.png "Max. GDP Per Capita vs Max. People Vaccinated per Hundred")
 
 The dashboard is embedded below. You can also view the
 dashboard [here](https://mohitur669.github.io/COVID-19-Vaccination-Tracker/).

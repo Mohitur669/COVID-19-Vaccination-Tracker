@@ -15,5 +15,3 @@ updated on 25/10/2021.
 
 The dashboard is embedded below. You can also view the
 dashboard [here](https://public.tableau.com/views/COVID-19GlobalVaccinationTracker_16850851988440/COVID-19GlobalVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link).
-
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/COVID-19GlobalVaccinationTracker_16850851988440/COVID-19GlobalVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no" width="100%" height="100%"></iframe>

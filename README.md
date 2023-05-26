@@ -2,8 +2,7 @@
 
 ## Introduction
 
-This is a COVID-19 Global Vaccination Tracker Dashboard created using Tableau. The dashboard is created using Tableau
-Public. You can filter the data to modify the dashboard visualization as per your needs. The complete dashboard is hosted in Github pages. You can view the dashboard [here](https://mohitur669.github.io/COVID-19-Vaccination-Tracker/).
+This is a COVID-19 Global Vaccination Tracker Dashboard created using Tableau Public. You can filter the data to modify the dashboard visualization as per your needs. The complete dashboard is hosted in Github pages. You can view the dashboard [here](https://mohitur669.github.io/COVID-19-Vaccination-Tracker/).
 
 ## Dashboard
 

@@ -5,11 +5,6 @@
 This is a COVID-19 Global Vaccination Tracker Dashboard created using Tableau. The dashboard is created using Tableau
 Public. You can filter the data to modify the dashboard visualization as per your needs. The complete dashboard is hosted in Github pages. You can view the dashboard [here](https://mohitur669.github.io/COVID-19-Vaccination-Tracker/).
 
-## Data Source
-
-The data is taken from [Our World in Data](https://ourworldindata.org/covid-vaccinations). The data source was last
-updated on 25/10/2021.
-
 ## Dashboard
 
 The dashboard is created using Tableau
@@ -50,3 +45,8 @@ The dashboard is created using 6 sheets. In every sheet, You can filter the data
 4. **Partially Vaccinated vs Fully Vaccinated per Location (Bar Graph)**: This sheet shows the horizontal bar graph of partially vaccinated vs fully vaccinated people per location.
 5. **Vaccination per Hundred - World Map**: This sheet shows the world map of vaccination per hundred people.
 6. **Vaccination over GDP**: This sheet shows the scatter plot of how vaccination is related to GDP (Max. GDP Per Capita vs Max. People Vaccinated per Hundred). It also shows us a trend-line.
+
+## Data Source
+
+The data is taken from [Our World in Data](https://ourworldindata.org/covid-vaccinations). The data source was last
+updated on 25/10/2021.

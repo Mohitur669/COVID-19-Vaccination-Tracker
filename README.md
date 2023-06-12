@@ -54,7 +54,7 @@ updated on 25/10/2021.
 
 I am Mohd Mohitur Rahaman, and currently, I am pursuing MCA from KIIT University, Bhubaneswar. Talking about my previous educational background, I did my BSC in Mathematics at Malda College.
 
-- [Mohitur](https://linktr.ee/mohitur)
+- [Mohd Mohitur Rahaman](https://linktr.ee/mohitur)
 
 ## Feedback
 
